@@ -23,8 +23,8 @@ The goals / steps of this project are the following:
 [image6]: ./test_images/3.jpg "Traffic Sign 3"
 [image7]: ./test_images/4.jpg "Traffic Sign 4"
 [image8]: ./test_images/5.jpg "Traffic Sign 5"
-[image9]: ./test_images/grayscale.jpg "grayscale image"
-[image10]: ./test_images/normalized.jpg "normalized image"
+[image9]: ./grayscale.jpg "grayscale image"
+[image10]: ./normalized.jpg "normalized image"
 
 ## Rubric Points
 ###Here I will consider the [rubric points](https://review.udacity.com/#!/rubrics/481/view) individually and describe how I addressed each point in my implementation.  
@@ -109,7 +109,6 @@ The dataset is divided into 3 portions, training, validation & test. I train the
 | training set accuracy   | 99.4 % |
 |-----------------------|---------|
 | validation set accuracy | 93.7 %  |
-|-----------------------|---------|
 | test set accuracy | 91.4 %  |
 
 
@@ -127,7 +126,6 @@ Using grayscale images, the prdiction accuracy of 98%, proving it's a relevant t
 | training set accuracy   | 99.6% |
 |-----------------------|---------|
 | validation set accuracy | 93.2%   |
-|-----------------------|---------|
 | test set accuracy | 92.2%  |
 
  The result is pretty high.
