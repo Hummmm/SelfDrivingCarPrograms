@@ -54,8 +54,8 @@ My model is based on Nvidia model "End to End Learning for Self-Driving Cars".  
 ####2. Attempts to reduce overfitting in the model
 
 The model was trained and validated on different data sets(left,right and center) to ensure that the model was not overfitting (code line 65,66). The model was tested by running it  , with 0.2 as the correction factor of steering angles , through the simulator and ensuring that the vehicle could stay on the track. Further more, I used sklearn library function shuffle() to randomize training data.(code lineline 73) and train_test_split() to create validation data from training data (code lineline 82).
-![][figure1.jpeg]
-![][figure2.jpeg]
+![][figure1.jpg]
+![][figure2.jpg]
 
 ####3. Model parameter tuning
 
@@ -79,4 +79,4 @@ The final model architecture Nvidia (model.py lines 88-108) consisted of a convo
 ####3. Creation of the Training Set & Training Process
 
 After several tries, I finally trained it with 3 epoch. One result video is included in the folder.
-![][result.jpeg]
+![][result.jpg]
