@@ -3,12 +3,12 @@ Include 1. Computer Vision and Deep Learning, 2. Sensor Fusion, Localization, an
 
 Part 1 includes:
 
-P1:finding lane lines
+P1:Finding Lane Lines
 
-P2:traffic sign classifier
+P2:Traffic Sign Classifier
 
-P3:behavioral cloning
+P3:Behavioral Cloning
 
-P4:advanced lane finding
+P4:Advanced Lane Finding
 
 P5:Vehicle Detection and Tracking 
